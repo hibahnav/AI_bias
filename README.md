@@ -1,2 +1,2 @@
 # AI_bias
-Article on bias in AI written in 2017
+Article on bias in AI written in 2018
